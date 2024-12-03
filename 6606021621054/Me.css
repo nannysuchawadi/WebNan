@@ -1,0 +1,35 @@
+header{
+    background-color: brown ;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    color: blanchedalmond;
+}
+body {
+    background: #ce8787;
+    color: black;
+}
+
+.head {
+    text-align: center;
+    font-size: 25pt;
+    font-style: normal;
+    color: rgb(250, 245, 245);
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+    padding: 20px;
+}
+
+.normal {
+    text-align: left;
+    font-style: normal;
+    font-family: Cordia New;
+    font-size: 20pt;
+    color: rgb(0, 0, 0)
+}
+
